@@ -1,13 +1,13 @@
 # Setup
-title:        Pumori
+title:        Eclipse Lyo
 tagline:      Technology Blog
 baseurl:      ""
 paginate:     1
 
 # About/contact
 author:
-  name:       Neeraj Bhusare
-  url:        http://nbhusare.github.io
+  name:       Yash Khatri
+  url:        http://yashkhatri.github.io
 
 # Gems
 gems:
